@@ -6,9 +6,12 @@
 
 header
 {
-    background-image: url(modern-offices3.jpg);
+    background-image: url("public/modern-offices3.jpg") fixed center;
     height: 100hv;
     background-size: cover;
     background-position: center;
-    
+}
+
+body {
+    background-color: lavenderblush;
 }
