@@ -5,8 +5,19 @@
 
 
     html, body {
-        font-size: 10px; }
+        font-size: 15px; }
     
     a.indent {
         word-spacing: 10px;
     }
+
+    a.contact{
+
+     word-spacing: 2px;
+    }
+
+    img { 
+        width: 125%; 
+        height: 80%; 
+         
+    } 
