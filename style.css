@@ -7,14 +7,23 @@
     html, body {
         font-size: 15px; }
     
+    
     a.indent {
         word-spacing: 10px;
+        
+    }
+    .hover:hover {
+        text-decoration: underline;
     }
 
     a.contact{
 
      word-spacing: 2px;
     }
+
+    a.contact:last-child {
+        border-right: none;
+      }
 
     img { 
         width: 125%; 
