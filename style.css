@@ -12,8 +12,9 @@
         word-spacing: 10px;
         
     }
-    .hover:hover {
+    li a:hover {
         text-decoration: underline;
+       
     }
 
     a.contact{
@@ -31,8 +32,11 @@
       li {
         display: inline;
         padding: 10px;
-        background-color: 
-        #ffffff;
+        color: black;
+        
+      }
+      ul {
+        background-color: #ffffff;
       }
 
     img { 
