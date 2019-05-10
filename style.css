@@ -72,6 +72,6 @@
         height: 70%; 
     }
 
-    .navbar a {
-        font-size: 2.8em !important;
+    .nav-inline {
+        font-size: 15px;
     }
