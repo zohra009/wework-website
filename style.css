@@ -5,9 +5,12 @@
 
 
     html, body {
-        font-size: 15px; }
+        font-size: 15px; 
+    }
     
-    
+    #navbar {
+        font-size: 15px;   
+    }
     a.indent {
         word-spacing: 10px;
         
@@ -72,7 +75,7 @@
         height: 70%; 
     }
 
-    .nav-inline {
+    /* .nav-inline {
         font-size: 15px;
         font-weight: bold;
-    }
+    } */
