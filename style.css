@@ -80,16 +80,17 @@
         height: 73%;
         
     }
-    .team::after {
+    .team {
         display: inline-block;
         float:left;
     }
 
-    .align {
+    /* .align {
         float: left;
-        width: 33%;
+        width: 100%;
         padding: .05px;
-    }
+        
+    } */
     
 
     
