@@ -80,6 +80,10 @@
         height: 73%;
         
     }
-
+    .team::after {
+        display: inline-block;
+        float:left;
+}
+    }
 
     
