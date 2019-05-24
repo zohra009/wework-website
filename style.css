@@ -111,6 +111,7 @@
         padding-left: 5px;
         padding-right: 5px;
         padding-top: 20px;
+        
     }
 
     .community {
@@ -118,6 +119,7 @@
         transition: 0.3s;
         width: 80%;
         padding-top: 20px;
+        padding: 10px;
     }
     .welcome {
         box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2);
