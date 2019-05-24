@@ -120,7 +120,13 @@
         width: 80%;
         padding-top: 20px;
         padding: 10px;
+        float: left;
     }
+    
+    .text-community {
+        float: right;
+    }
+
     .welcome {
         box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2);
         transition: 0.3s;
